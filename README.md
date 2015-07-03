@@ -1,7 +1,7 @@
-Random
+Quiz
 =================
 
-A simple web app with nodejs. This is an exercise of module 6 in MiriadaX course called:
+A simple web app with nodejs of questions and answers. This is an exercise of module 6 in MiriadaX course called:
   "Desarrollo de servicios en la nube con HTML5, Javascript y node.js"
 
 
