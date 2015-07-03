@@ -8,8 +8,7 @@ A simple web app with nodejs of questions and answers. This is an exercise of mo
 Note
 ---------------
 
-To execute this example you need express-generator
-
+To execute this example you can do it in [Heroku](https://quiz-maiklahoz.herokuapp.com/)
 
 
 Thanks
